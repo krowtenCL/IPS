@@ -1,4 +1,4 @@
 estado (del arte)
-patrones de referencia(SLA, buenas prácticas)
+patrones de referencia(SLA, buenas practicas)
 evidencia/procedimiento
-opinión
+opinon
